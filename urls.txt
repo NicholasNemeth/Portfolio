@@ -1,10 +1,12 @@
 project urls
 https://github.com/NicholasNemeth
 
+
 porfoilio site 
 https://relaxed-bhabha-6db9a7.netlify.app/
 
 
+https://docs.google.com/document/d/1bizPhOqsch3j-WMbsy4_ssRLFw-cbfxk5ofHxJaaXcw/edit?usp=sharing
 
 1
 https://nicholasnemeth.github.io/Meat-Yogurt/
